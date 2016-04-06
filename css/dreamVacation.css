@@ -1,0 +1,17 @@
+body{
+  background-image: url("../images/darkForest.jpg");;
+  background-size: cover;
+  background-repeat: repeat-x;
+  background-color: black;
+  color: lightslategrey;
+}
+p{
+  font-size: 17px;
+}
+h1{
+  color: MediumSeaGreen;
+  font-size: 40px;
+}
+h2{
+  color: rgb(255,182,193);
+}
